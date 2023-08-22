@@ -1,0 +1,28 @@
+body{
+  background-color: aliceblue;
+}
+
+input{
+  width: 40vw;
+  height: 2.5rem;
+  padding-left: 1rem;
+  font-size: 1.1rem;
+  
+
+  
+}
+
+section{
+  height: 20rem;
+  width: 50vw;
+  margin: auto;
+  margin-top: 3rem;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  background-color: white;
+  padding: 2rem 0rem;
+  box-shadow: 0px 0px 6px -2px black;
+}
